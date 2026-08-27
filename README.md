@@ -51,13 +51,16 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
 
 | | |
 |:--|:--|
-| 🎓 | Production-style systems: booking, auth, admin, payments flow, ML APIs |
-| 🌍 | South Korea · open to Full-Stack / AI Engineer roles |
-| 💬 | **Uzbek · English · Korean (learning)** |
-| ✉️ | [saydahbarovazamjon@gmail.com](mailto:saydahbarovazamjon@gmail.com) |
-| 📱 | +82 10-8349-4111 |
-| 💼 | [LinkedIn](https://www.linkedin.com/in/azamjon-saydahbarov-a55647406/) |
-| ✈️ | [Telegram @iamsaidakbarov](https://t.me/iamsaidakbarov) |
+| <img src="https://cdn.simpleicons.org/googledocs/730C1E" height="18"/> | Production-style systems: booking, auth, admin, payments flow, ML APIs |
+| <img src="https://cdn.simpleicons.org/googlemaps/3C4B63" height="18"/> | South Korea · open to Full-Stack / AI Engineer roles |
+| <img src="https://cdn.simpleicons.org/googletranslate/6B7A90" height="18"/> | **Uzbek · English · Korean (learning)** |
+| <img src="https://cdn.simpleicons.org/gmail/EA4335" height="18"/> | [saydahbarovazamjon@gmail.com](mailto:saydahbarovazamjon@gmail.com) |
+| <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="18"/> | +82 10-8349-4111 |
+| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="18"/> | [LinkedIn — Azamjon Saydahbarov](https://www.linkedin.com/in/azamjon-saydahbarov-a55647406/) |
+| <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="18"/> | [Telegram @iamsaidakbarov](https://t.me/iamsaidakbarov) |
+| <img src="https://cdn.simpleicons.org/adobeacrobatreader/E34F26" height="18"/> | [CV English (PDF)](./cv/CV-eng.pdf) |
+| <img src="https://cdn.simpleicons.org/adobeacrobatreader/E34F26" height="18"/> | [CV Korean (PDF)](./cv/CV-kor.pdf) |
+
 
 ---
 
@@ -184,8 +187,14 @@ Repo file: <code>.github/workflows/snake.yml</code>
 
 ## 📄 CV / Portfolio
 
-English & Korean versions are on your Desktop (`CV & Portfolio`).  
-Upload to this repo (`cv/`) and I will link them here.
+<p align="center">
+  <a href="./cv/CV-eng.pdf"><img src="https://img.shields.io/badge/Download%20CV-English-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=E34F26&labelColor=FFFFFF&color=FFF1ED" alt="cv eng"/></a>
+  <a href="./cv/CV-kor.pdf"><img src="https://img.shields.io/badge/Download%20CV-Korean-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=E34F26&labelColor=FFFFFF&color=FFF1ED" alt="cv kor"/></a>
+</p>
+
+- 🇺🇸 [CV-eng.pdf](./cv/CV-eng.pdf) — English resume  
+- 🇰🇷 [CV-kor.pdf](./cv/CV-kor.pdf) — Korean resume (이력서)
+
 
 ---
 
@@ -207,26 +216,26 @@ Open to:
 ## 🔗 Connect
 
 <p align="center">
-  <a href="mailto:saydahbarovazamjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-saydahbarovazamjon%40gmail.com-730C1E?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-  <a href="https://www.linkedin.com/in/azamjon-saydahbarov-a55647406/"><img src="https://img.shields.io/badge/LinkedIn-Azamjon%20Saydahbarov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="li"/></a>
-  <a href="https://t.me/iamsaidakbarov"><img src="https://img.shields.io/badge/Telegram-@iamsaidakbarov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="tg"/></a>
-  <a href="tel:+821083494111"><img src="https://img.shields.io/badge/Phone-%2B82%2010--8349--4111-3C4B63?style=for-the-badge&logo=whatsapp&logoColor=white" alt="ph"/></a>
+  <a href="mailto:saydahbarovazamjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-saydahbarovazamjon%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF&color=FCE8E6" alt="gmail"/></a>
+  <a href="https://www.linkedin.com/in/azamjon-saydahbarov-a55647406/"><img src="https://img.shields.io/badge/LinkedIn-Azamjon%20Saydahbarov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF&color=E8F3FF" alt="li"/></a>
 </p>
-
 <p align="center">
-  <a href="https://fixoranext.com"><img src="https://img.shields.io/badge/Live-fixoranext.com-730C1E?style=for-the-badge" alt="fixora"/></a>
-  <a href="https://gadjetstore.uz"><img src="https://img.shields.io/badge/Live-gadjetstore.uz-3C4B63?style=for-the-badge" alt="gadjet"/></a>
-  <a href="http://187.77.115.20:8080/"><img src="https://img.shields.io/badge/Live-Carvia%20%3A8080-730C1E?style=for-the-badge" alt="carvia"/></a>
-  <a href="http://187.77.115.20:8090/"><img src="https://img.shields.io/badge/Live-FoodAI%20%3A8090-3C4B63?style=for-the-badge" alt="foodai"/></a>
+  <a href="https://t.me/iamsaidakbarov"><img src="https://img.shields.io/badge/Telegram-%40iamsaidakbarov-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=FFFFFF&color=E8F7FC" alt="tg"/></a>
+  <a href="tel:+821083494111"><img src="https://img.shields.io/badge/Phone-%2B82%2010--8349--4111-3C4B63?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=FFFFFF&color=EEF2F7" alt="ph"/></a>
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaydahbarovAzamjon-cloud&label=Profile%20views&color=730C1E&style=flat-square" alt="views"/>
-  <img src="https://img.shields.io/github/followers/SaydahbarovAzamjon-cloud?label=Followers&style=flat-square&color=3C4B63" alt="followers"/>
+  <a href="./cv/CV-eng.pdf"><img src="https://img.shields.io/badge/CV-English%20PDF-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=E34F26&labelColor=FFFFFF&color=FFF1ED" alt="cv-en"/></a>
+  <a href="./cv/CV-kor.pdf"><img src="https://img.shields.io/badge/CV-Korean%20PDF-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=E34F26&labelColor=FFFFFF&color=FFF1ED" alt="cv-ko"/></a>
 </p>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="footer animation"/>
+  <a href="https://fixoranext.com"><img src="https://img.shields.io/badge/Live-fixoranext.com-730C1E?style=for-the-badge&logoColor=730C1E&labelColor=FFFFFF&color=F8E9EC" alt="fixora"/></a>
+  <a href="https://gadjetstore.uz"><img src="https://img.shields.io/badge/Live-gadjetstore.uz-3C4B63?style=for-the-badge&logoColor=3C4B63&labelColor=FFFFFF&color=EEF2F7" alt="gadjet"/></a>
+  <a href="http://187.77.115.20:8080/"><img src="https://img.shields.io/badge/Live-Carvia%20%3A8080-730C1E?style=for-the-badge&logoColor=730C1E&labelColor=FFFFFF&color=F8E9EC" alt="carvia"/></a>
+  <a href="http://187.77.115.20:8090/"><img src="https://img.shields.io/badge/Live-FoodAI%20%3A8090-3C4B63?style=for-the-badge&logoColor=3C4B63&labelColor=FFFFFF&color=EEF2F7" alt="foodai"/></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaydahbarovAzamjon-cloud&label=Profile%20views&color=F8E9EC&style=flat-square&labelColor=FFFFFF" alt="views"/>
+  <img src="https://img.shields.io/github/followers/SaydahbarovAzamjon-cloud?label=Followers&style=flat-square&color=EEF2F7&labelColor=FFFFFF" alt="followers"/>
 </p>
 
 
