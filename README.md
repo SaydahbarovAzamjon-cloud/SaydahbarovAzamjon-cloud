@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="./hero.png" alt="hero" width="900"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/hero.png" alt="hero" width="900"/>
 </p>
 
 ---
@@ -50,11 +50,11 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
 
 
 <p align="center">
-  <img src="./stack-frontend.png" alt="Frontend"/>
-  <img src="./stack-backend.png" alt="Backend"/>
-  <img src="./stack-data.png" alt="Data"/>
-  <img src="./stack-ai.png" alt="AI"/>
-  <img src="./stack-devops.png" alt="DevOps"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-frontend.png" alt="Frontend"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-backend.png" alt="Backend"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-data.png" alt="Data"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-ai.png" alt="AI"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-devops.png" alt="DevOps"/>
 </p>
 
 
@@ -100,10 +100,10 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
 
 
 <p align="center">
-  <img src="./card-about.png" alt="About"/>
-  <img src="./card-ship.png" alt="Ship"/>
-  <img src="./card-products.png" alt="Products"/>
-  <img src="./card-principles.png" alt="Principles"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/card-about.png" alt="About"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/card-ship.png" alt="Ship"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/card-products.png" alt="Products"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/card-principles.png" alt="Principles"/>
 </p>
 
 
@@ -152,14 +152,14 @@ Keyin: <b>Actions → Generate Snake → Run workflow</b>
 
 <table>
   <tr>
-    <td width="28%" align="center"><img src="./now-building.png" alt="Now Building"/></td>
-    <td width="44%" align="center"><img src="./dev-desk.png" alt="Dev desk"/></td>
-    <td width="28%" align="center"><img src="./connect.png" alt="Connect"/></td>
+    <td width="28%" align="center"><img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/now-building.png" alt="Now Building"/></td>
+    <td width="44%" align="center"><img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/dev-desk.png" alt="Dev desk"/></td>
+    <td width="28%" align="center"><img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/connect.png" alt="Connect"/></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="./terminal-cta.png" alt="CTA" width="900"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/terminal-cta.png" alt="CTA" width="900"/>
 </p>
 
 ---
