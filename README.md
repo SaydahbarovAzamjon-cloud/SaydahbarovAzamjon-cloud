@@ -25,6 +25,11 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/bg-header.png" alt="background header" width="100%"/>
+</p>
+
 ## 🧊 3D Hero
 
 <p align="center">
@@ -56,6 +61,11 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
 
 ---
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/bg-divider.png" alt="divider" width="100%"/>
+</p>
+
 ## 🚀 What I Can Work With
 
 > Stacks from **real shipped projects** (Fixora, GadjetStore, Carvia, FoodAI, Lumora) — not a wishlist.
@@ -83,6 +93,11 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
 
 ---
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/bg-divider.png" alt="divider" width="100%"/>
+</p>
+
 ## 💼 Featured Projects
 
 | Project | What I built | Stack | Live |
@@ -105,6 +120,11 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
 </p>
 
 ---
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/bg-divider.png" alt="divider" width="100%"/>
+</p>
 
 ## 📊 GitHub Activity (animated)
 
@@ -179,6 +199,11 @@ Open to:
 
 ---
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/bg-divider.png" alt="divider" width="100%"/>
+</p>
+
 ## 🔗 Connect
 
 <p align="center">
@@ -202,6 +227,11 @@ Open to:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="footer animation"/>
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/bg-footer.png" alt="background footer" width="100%"/>
 </p>
 
 <p align="center"><sub>⭐ Thanks for visiting — building in public, 2026</sub></p>
