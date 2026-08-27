@@ -32,21 +32,15 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/bg-header.png" alt="background header" width="100%"/>
-</p>
-
-## ✨ 2D Design — 3D Text Style
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/header-2d-text.png" alt="3D text header" width="900"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/header-2d-text.png?v=soft1" alt="Azamjon Saydahbarov" width="900"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/hero-2d-text.png" alt="Full-Stack AI Engineer 3D text" width="900"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/hero-2d-text.png?v=soft1" alt="Full-Stack AI Engineer" width="900"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/banner-2d-text.png" alt="Build Ship Learn 3D text" width="900"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/banner-2d-text.png?v=soft1" alt="Build Ship Learn" width="900"/>
 </p>
 
 ---
@@ -60,15 +54,15 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
 
 | | |
 |:--|:--|
-| <img src="https://cdn.simpleicons.org/googledocs/730C1E" height="18"/> | Production-style systems: booking, auth, admin, payments flow, ML APIs |
-| <img src="https://cdn.simpleicons.org/googlemaps/3C4B63" height="18"/> | South Korea · open to Full-Stack / AI Engineer roles |
-| <img src="https://cdn.simpleicons.org/googletranslate/6B7A90" height="18"/> | **Uzbek · English · Korean (learning)** |
-| <img src="https://cdn.simpleicons.org/gmail/EA4335" height="18"/> | [saydahbarovazamjon@gmail.com](mailto:saydahbarovazamjon@gmail.com) |
-| <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="18"/> | +82 10-8349-4111 |
-| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="18"/> | [LinkedIn — Azamjon Saydahbarov](https://www.linkedin.com/in/azamjon-saydahbarov-a55647406/) |
-| <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="18"/> | [Telegram @iamsaidakbarov](https://t.me/iamsaidakbarov) |
-| <img src="https://cdn.simpleicons.org/adobeacrobatreader/E34F26" height="18"/> | [CV English (PDF)](./cv/CV-eng.pdf) |
-| <img src="https://cdn.simpleicons.org/adobeacrobatreader/E34F26" height="18"/> | [CV Korean (PDF)](./cv/CV-kor.pdf) |
+| <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/icons/systems.png" height="18"/> | Production-style systems: booking, auth, admin, payments flow, ML APIs |
+| <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/icons/location.png" height="18"/> | South Korea · open to Full-Stack / AI Engineer roles |
+| <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/icons/lang.png" height="18"/> | **Uzbek · English · Korean (learning)** |
+| <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/icons/gmail.png" height="18"/> | [saydahbarovazamjon@gmail.com](mailto:saydahbarovazamjon@gmail.com) |
+| <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/icons/whatsapp.png" height="18"/> | +82 10-8349-4111 |
+| <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/icons/linkedin.png" height="18"/> | [LinkedIn — Azamjon Saydahbarov](https://www.linkedin.com/in/azamjon-saydahbarov-a55647406/) |
+| <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/icons/telegram.png" height="18"/> | [Telegram @iamsaidakbarov](https://t.me/iamsaidakbarov) |
+| <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/icons/cv.png" height="18"/> | [CV English (PDF)](./cv/CV-eng.pdf) |
+| <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/icons/cv.png" height="18"/> | [CV Korean (PDF)](./cv/CV-kor.pdf) |
 
 
 ---
@@ -149,9 +143,6 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaydahbarovAzamjon-cloud&theme=default&hide_border=true&background=FFFFFF&ring=730C1E&fire=730C1E&currStreakLabel=730C1E&sideLabels=3C4B63&dates=6B7A90" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaydahbarovAzamjon-cloud&bg_color=ffffff&color=3C4B63&line=730C1E&point=730C1E&area=true&hide_border=true" alt="activity graph" width="100%"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaydahbarovAzamjon-cloud&theme=default" height="180" alt="summary stats"/>
@@ -248,8 +239,5 @@ Open to:
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/bg-footer.png" alt="background footer" width="100%"/>
-</p>
 
 <p align="center"><sub>⭐ Thanks for visiting — building in public, 2026</sub></p>
