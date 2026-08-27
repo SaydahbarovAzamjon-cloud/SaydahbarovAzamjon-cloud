@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <rect width="900" height="120" rx="16" fill="#FFFFFF" stroke="#E5EAF2"/>
+  <rect x="1" y="1" width="898" height="118" rx="15" fill="none" stroke="#730C1E" stroke-opacity="0.25"/>
+  <text x="40" y="48" fill="#730C1E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">$ echo "let's build something amazing together"</text>
+  <rect x="620" y="32" width="12" height="22" fill="#730C1E">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="450" y="88" text-anchor="middle" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Thanks for stopping by  open to collaboration on Full-Stack &amp; AI systems.</text>
+</svg>
