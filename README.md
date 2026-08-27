@@ -39,14 +39,18 @@
   <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/bg-header.png" alt="background header" width="100%"/>
 </p>
 
-## 🧊 3D Hero
+## ✨ 2D Design — 3D Text Style
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/hero-3d.png" alt="3D hero" width="900"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/header-2d-text.png" alt="3D text header" width="900"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/cubes-3d.png" alt="3D stack cubes" width="900"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/hero-2d-text.png" alt="Full-Stack AI Engineer 3D text" width="900"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/banner-2d-text.png" alt="Build Ship Learn 3D text" width="900"/>
 </p>
 
 ---
