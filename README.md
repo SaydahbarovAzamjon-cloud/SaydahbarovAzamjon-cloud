@@ -1,10 +1,6 @@
 # 👋 Hi, I'm **Azamjon Saydahbarov**
 
 
-<!-- Fixora-style SplashCursor approximation (WebGL can't run on GitHub README) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/splash-bg.gif" alt="SplashCursor-style fluid background" width="100%"/>
-</p>
 
 
 <p align="center">
