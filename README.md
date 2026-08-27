@@ -1,26 +1,35 @@
 # 👋 Hi, I'm **Azamjon Saydahbarov**
 
+
+<!-- Fixora-style SplashCursor approximation (WebGL can't run on GitHub README) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/splash-bg.gif" alt="SplashCursor-style fluid background" width="100%"/>
+</p>
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-8949-ce1af795739d.gif" width="40" alt="wave"/>
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2800&pause=700&color=730C1E&center=true&vCenter=true&width=740&lines=Full-Stack+AI+Engineer;I+build+products+that+ship;Next.js+%7C+NestJS+%7C+PyTorch;Open+to+Full-Stack+%26+AI+roles" alt="typing"/>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" alt="coding animation"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Engineer-730C1E?style=for-the-badge" alt="fullstack"/>
-  <img src="https://img.shields.io/badge/AI%20%2F%20CV-Engineer-3C4B63?style=for-the-badge" alt="ai"/>
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Nginx%20%7C%20PM2-6B7A90?style=for-the-badge" alt="devops"/>
-  <img src="https://img.shields.io/badge/Location-South%20Korea-22C55E?style=for-the-badge" alt="kr"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Engineer-730C1E?style=for-the-badge&labelColor=FFFFFF&color=F8E9EC&logoColor=730C1E" alt="fullstack"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20CV-Engineer-3C4B63?style=for-the-badge&labelColor=FFFFFF&color=EEF2F7" alt="ai"/>
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Nginx%20%7C%20PM2-6B7A90?style=for-the-badge&labelColor=FFFFFF&color=F3F4F6" alt="devops"/>
+  <img src="https://img.shields.io/badge/Location-South%20Korea-16A34A?style=for-the-badge&labelColor=FFFFFF&color=ECFDF5" alt="kr"/>
 </p>
 
 <p align="center">
-  <a href="mailto:saydahbarovazamjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-saydahbarovazamjon%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/></a>
-  <a href="https://www.linkedin.com/in/azamjon-saydahbarov-a55647406/"><img src="https://img.shields.io/badge/LinkedIn-Azamjon%20Saydahbarov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://t.me/iamsaidakbarov"><img src="https://img.shields.io/badge/Telegram-@iamsaidakbarov-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="telegram"/></a>
-  <a href="tel:+821083494111"><img src="https://img.shields.io/badge/Phone-%2B82%2010--8349--4111-3C4B63?style=flat-square&logo=whatsapp&logoColor=white" alt="phone"/></a>
+  <a href="mailto:saydahbarovazamjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-saydahbarovazamjon%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF&color=FCE8E6" alt="gmail"/></a>
+  <a href="https://www.linkedin.com/in/azamjon-saydahbarov-a55647406/"><img src="https://img.shields.io/badge/LinkedIn-Azamjon%20Saydahbarov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF&color=E8F3FF" alt="linkedin"/></a>
+</p>
+<p align="center">
+  <a href="https://t.me/iamsaidakbarov"><img src="https://img.shields.io/badge/Telegram-%40iamsaidakbarov-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=FFFFFF&color=E8F7FC" alt="telegram"/></a>
+  <a href="tel:+821083494111"><img src="https://img.shields.io/badge/Phone-%2B82%2010--8349--4111-3C4B63?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=FFFFFF&color=EEF2F7" alt="phone"/></a>
 </p>
 
 ---
