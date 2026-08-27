@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="200" viewBox="0 0 280 200">
+  <rect width="280" height="200" rx="16" fill="#FFFFFF" stroke="#E5EAF2"/>
+  <rect x="0" y="0" width="280" height="6" rx="3" fill="#730C1E"/>
+  <text x="20" y="42" fill="#730C1E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Live Products</text>
+  <text x="20" y="74" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">" Fixora  repair marketplace</text>
+  <text x="20" y="96" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">" GadjetStore  e-commerce</text>
+  <text x="20" y="118" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">" Carvia  vehicle recognition</text>
+  <text x="20" y="140" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">" FoodAI  food classifier</text>
+  <text x="20" y="162" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">" Lumora  AI stylist (WIP)</text>
+</svg>
