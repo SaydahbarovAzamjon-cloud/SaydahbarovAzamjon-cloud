@@ -1,7 +1,12 @@
 # 👋 Hi, I'm **Azamjon Saydahbarov**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=3000&pause=800&color=730C1E&center=true&vCenter=true&width=720&lines=Full-Stack+AI+Engineer;I+build+products+that+ship;Next.js+%7C+NestJS+%7C+PyTorch;Open+to+Full-Stack+%26+AI+roles" alt="typing" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-8949-ce1af795739d.gif" width="40" alt="wave"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2800&pause=700&color=730C1E&center=true&vCenter=true&width=740&lines=Full-Stack+AI+Engineer;I+build+products+that+ship;Next.js+%7C+NestJS+%7C+PyTorch;Open+to+Full-Stack+%26+AI+roles" alt="typing"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding animation"/>
 </p>
 
 <p align="center">
@@ -18,9 +23,16 @@
   <a href="tel:+821083494111"><img src="https://img.shields.io/badge/Phone-%2B82%2010--8349--4111-3C4B63?style=flat-square&logo=whatsapp&logoColor=white" alt="phone"/></a>
 </p>
 
+---
+
+## 🧊 3D Hero
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/hero.png" alt="hero" width="900"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/hero-3d.png" alt="3D hero" width="900"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/cubes-3d.png" alt="3D stack cubes" width="900"/>
 </p>
 
 ---
@@ -48,15 +60,13 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
 
 > Stacks from **real shipped projects** (Fixora, GadjetStore, Carvia, FoodAI, Lumora) — not a wishlist.
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-frontend.png" alt="Frontend"/>
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-backend.png" alt="Backend"/>
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-data.png" alt="Data"/>
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-ai.png" alt="AI"/>
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-devops.png" alt="DevOps"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-frontend.png" alt="Frontend" height="140"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-backend.png" alt="Backend" height="140"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-data.png" alt="Data" height="140"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-ai.png" alt="AI" height="140"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/stack-devops.png" alt="DevOps" height="140"/>
 </p>
-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,mongodb,redis,docker,nginx,python,pytorch,fastapi,graphql,vite,redux,linux,git,githubactions&theme=light" alt="skills"/>
@@ -70,17 +80,6 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
 | **Database** | MongoDB · Mongoose · Redis · BullMQ |
 | **AI / ML** | PyTorch · ConvNeXt-Tiny · MobileNetV2 · Google Gemini · Transfer learning · Confidence gating |
 | **DevOps** | Docker · Docker Compose · Nginx · PM2 · Ubuntu VPS · Git / GitHub |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="next"/>
-  <img src="https://img.shields.io/badge/NestJS-10-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="nest"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="gql"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongo"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="torch"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="nginx"/>
-</p>
 
 ---
 
@@ -98,36 +97,33 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
 
 ## 🧩 How I Work
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/card-about.png" alt="About"/>
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/card-ship.png" alt="Ship"/>
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/card-products.png" alt="Products"/>
-  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/card-principles.png" alt="Principles"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/card-about.png" alt="About" height="180"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/card-ship.png" alt="Ship" height="180"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/card-products.png" alt="Products" height="180"/>
+  <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/card-principles.png" alt="Principles" height="180"/>
 </p>
-
-
-| Focus | Principle |
-|------|-----------|
-| **End-to-end** | Frontend + backend + AI + deploy — one owner when needed |
-| **Honest MVP** | Mocks / small test sets stay visible; architecture stays production-ready |
-| **Clear trade-offs** | GraphQL vs REST, JWT vs session, model size vs accuracy — I explain *why* |
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity (animated)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaydahbarovAzamjon-cloud&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=730C1E&icon_color=730C1E&text_color=3C4B63&ring_color=730C1E" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaydahbarovAzamjon-cloud&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=730C1E&text_color=3C4B63" alt="langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaydahbarovAzamjon-cloud&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=730C1E&icon_color=730C1E&text_color=3C4B63&ring_color=730C1E" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaydahbarovAzamjon-cloud&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=730C1E&text_color=3C4B63" alt="langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaydahbarovAzamjon-cloud&theme=default&hide_border=true&background=FFFFFF&ring=730C1E&fire=730C1E&currStreakLabel=730C1E&sideLabels=3C4B63&dates=6B7A90" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaydahbarovAzamjon-cloud&theme=default&hide_border=true&background=FFFFFF&ring=730C1E&fire=730C1E&currStreakLabel=730C1E&sideLabels=3C4B63&dates=6B7A90" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaydahbarovAzamjon-cloud&bg_color=ffffff&color=3C4B63&line=730C1E&point=730C1E&area=true&hide_border=true" alt="activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaydahbarovAzamjon-cloud&bg_color=ffffff&color=3C4B63&line=730C1E&point=730C1E&area=true&hide_border=true" alt="activity graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaydahbarovAzamjon-cloud&theme=default" height="180" alt="summary stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaydahbarovAzamjon-cloud&theme=default" height="180" alt="repos language"/>
 </p>
 
 ---
@@ -135,18 +131,16 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/output/github-contribution-grid-snake.png" />
+  <img alt="snake" src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <details>
-<summary>Snake ko‘rinmasa — shu Action’ni bir marta Run qiling</summary>
+<summary>Snake ko‘rinmasa — Actions → Generate Snake → Run workflow</summary>
 
-Repo’da fayl: <code>.github/workflows/snake.yml</code>  
-Keyin: <b>Actions → Generate Snake → Run workflow</b>
+Repo file: <code>.github/workflows/snake.yml</code>
 </details>
 
 ---
-
 
 ## 🎧 Developer Widgets
 
@@ -162,17 +156,18 @@ Keyin: <b>Actions → Generate Snake → Run workflow</b>
   <img src="https://raw.githubusercontent.com/SaydahbarovAzamjon-cloud/SaydahbarovAzamjon-cloud/main/terminal-cta.png" alt="CTA" width="900"/>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=730C1E&center=true&vCenter=true&width=700&lines=%24+echo+%22let's+build+something+amazing+together%22;%24+deploy+--+prod+--+stack+fullstack-ai" alt="terminal typing"/>
+</p>
 
+---
 
 ## 📄 CV / Portfolio
 
-English and Korean CV/Portfolio files are ready locally (`Desktop/CV & Portfolio`).
+English & Korean versions are on your Desktop (`CV & Portfolio`).  
+Upload to this repo (`cv/`) and I will link them here.
 
-> Upload them here when available — I will link:
-> - `cv/Azamjon_Saydahbarov_CV_EN.pdf`
-> - `cv/Azamjon_Saydahbarov_CV_KO.pdf`
-> - Portfolio slides (EN / KO)
+---
 
 ## 🤝 Looking For
 
@@ -198,8 +193,6 @@ Open to:
   <a href="https://gadjetstore.uz"><img src="https://img.shields.io/badge/Live-gadjetstore.uz-3C4B63?style=for-the-badge" alt="gadjet"/></a>
   <a href="http://187.77.115.20:8080/"><img src="https://img.shields.io/badge/Live-Carvia%20%3A8080-730C1E?style=for-the-badge" alt="carvia"/></a>
   <a href="http://187.77.115.20:8090/"><img src="https://img.shields.io/badge/Live-FoodAI%20%3A8090-3C4B63?style=for-the-badge" alt="foodai"/></a>
-
-  <a href="https://github.com/SaydahbarovAzamjon-cloud"><img src="https://img.shields.io/badge/GitHub-SaydahbarovAzamjon--cloud-181717?style=for-the-badge&logo=github" alt="gh"/></a>
 </p>
 
 <p align="center">
@@ -208,7 +201,7 @@ Open to:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=730C1E&center=true&vCenter=true&width=600&lines=%24+echo+%22let's+build+something+amazing+together%22" alt="cta"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="footer animation"/>
 </p>
 
 <p align="center"><sub>⭐ Thanks for visiting — building in public, 2026</sub></p>
