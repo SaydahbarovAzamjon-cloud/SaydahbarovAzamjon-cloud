@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#F7F9FC"/>
+      <stop offset="100%" stop-color="#EEF2F7"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#730C1E"/>
+      <stop offset="100%" stop-color="#9A1A32"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="260" rx="20" fill="url(#bg)" stroke="#E5EAF2" stroke-width="1.5"/>
+  <!-- soft corner glow -->
+  <circle cx="820" cy="40" r="90" fill="#730C1E" opacity="0.04"/>
+  <circle cx="60" cy="220" r="70" fill="#3C4B63" opacity="0.04"/>
+  <!-- terminal bar -->
+  <rect x="28" y="22" width="844" height="34" rx="10" fill="#FFFFFF" stroke="#E5EAF2"/>
+  <circle cx="50" cy="39" r="5" fill="#E57373"/>
+  <circle cx="68" cy="39" r="5" fill="#FFB74D"/>
+  <circle cx="86" cy="39" r="5" fill="#81C784"/>
+  <text x="112" y="44" fill="#6B7A90" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">azamjon@fullstack-ai:~$</text>
+  <text x="340" y="44" fill="#730C1E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">whoami</text>
+  <!-- title -->
+  <text x="40" y="110" fill="#27354C" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700">Full-Stack AI Engineer</text>
+  <text x="40" y="148" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">I design, build, and deploy production products  web platforms,</text>
+  <text x="40" y="172" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">APIs, and computer-vision systems  end to end.</text>
+  <!-- pills -->
+  <rect x="40" y="198" width="150" height="30" rx="15" fill="#FFFFFF" stroke="#730C1E"/>
+  <text x="115" y="218" text-anchor="middle" fill="#730C1E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">FULL-STACK</text>
+  <rect x="202" y="198" width="130" height="30" rx="15" fill="#FFFFFF" stroke="#730C1E"/>
+  <text x="267" y="218" text-anchor="middle" fill="#730C1E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">AI / CV</text>
+  <rect x="344" y="198" width="120" height="30" rx="15" fill="#FFFFFF" stroke="#730C1E"/>
+  <text x="404" y="218" text-anchor="middle" fill="#730C1E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">DEVOPS</text>
+  <rect x="476" y="198" width="150" height="30" rx="15" fill="#F8F1F3" stroke="#E5EAF2"/>
+  <text x="551" y="218" text-anchor="middle" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">SOUTH KOREA</text>
+</svg>
