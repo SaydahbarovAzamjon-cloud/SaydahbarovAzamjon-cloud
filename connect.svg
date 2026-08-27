@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="220" viewBox="0 0 260 220">
+  <rect width="260" height="220" rx="16" fill="#FFFFFF" stroke="#E5EAF2"/>
+  <text x="18" y="28" fill="#730C1E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">Ï CONNECT</text>
+
+  <a href="https://github.com/SaydahbarovAzamjon-cloud">
+    <text x="28" y="62" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">¸ GitHub</text>
+  </a>
+  <a href="mailto:saydahbarovazamjon@gmail.com">
+    <text x="28" y="90" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">¸ Email</text>
+  </a>
+  <a href="https://www.linkedin.com/in/azamjon-saydahbarov-a55647406/">
+    <text x="28" y="118" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">¸ LinkedIn</text>
+  </a>
+  <a href="https://t.me/iamsaidakbarov">
+    <text x="28" y="146" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">¸ Telegram</text>
+  </a>
+
+  <!-- pulsing status -->
+  <circle cx="34" cy="182" r="6" fill="#22C55E" opacity="0.35">
+    <animate attributeName="r" values="6;12;6" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0;0.35" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="34" cy="182" r="5" fill="#22C55E"/>
+  <text x="48" y="187" fill="#1B7F4A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">open to collab</text>
+</svg>
