@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="220" viewBox="0 0 360 220">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E8F1FA"/>
+      <stop offset="100%" stop-color="#F7F9FC"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="220" rx="16" fill="#FFFFFF" stroke="#E5EAF2"/>
+  <!-- window desk scene -->
+  <rect x="24" y="24" width="312" height="140" rx="8" fill="url(#sky)" stroke="#D7E0EC"/>
+  <!-- blinking caret in editor -->
+  <rect x="44" y="48" width="160" height="100" rx="6" fill="#FFFFFF" stroke="#C9D4E3"/>
+  <text x="56" y="72" fill="#6B7A90" font-family="ui-monospace, monospace" font-size="10">const ship = true;</text>
+  <text x="56" y="92" fill="#730C1E" font-family="ui-monospace, monospace" font-size="10">await deploy();</text>
+  <rect x="56" y="102" width="8" height="14" fill="#730C1E">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <!-- coffee steam -->
+  <g transform="translate(250,120)">
+    <rect x="-14" y="10" width="28" height="18" rx="3" fill="#EEF2F7" stroke="#C9D4E3"/>
+    <path d="M-6 0 Q-8 -12 -4 -18" fill="none" stroke="#A0AEC0" stroke-width="1.5">
+      <animate attributeName="d" values="M-6 0 Q-8 -12 -4 -18;M-6 0 Q-2 -12 -6 -18;M-6 0 Q-8 -12 -4 -18" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M6 0 Q8 -12 4 -18" fill="none" stroke="#A0AEC0" stroke-width="1.5">
+      <animate attributeName="d" values="M6 0 Q8 -12 4 -18;M6 0 Q2 -12 6 -18;M6 0 Q8 -12 4 -18" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="24" y="198" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Building · Shipping · Learning</text>
+  <text x="24" y="212" fill="#6B7A90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Full-Stack AI Engineer · South Korea</text>
+</svg>
