@@ -90,8 +90,8 @@ I ship real products — marketplaces, e-commerce, and computer-vision systems �
 |--------|--------------|-------|------|
 | **[Fixora](https://github.com/SaydahbarovAzamjon-cloud/Fixora)** | Apple repair marketplace — booking, chat, deposit, admin | NestJS · GraphQL · MongoDB · Next.js · Gemini · Docker | [fixoranext.com](https://fixoranext.com) |
 | **[GadjetStore](https://github.com/SaydahbarovAzamjon-cloud/Gadjet-Store)** | E-commerce + SSR admin, stock reserve, orders | React · Vite · Express · MongoDB · JWT · PM2 | [gadjetstore.uz](https://gadjetstore.uz) |
-| **[Carvia](https://github.com/SaydahbarovAzamjon-cloud/carvia)** | Vehicle make/model from one image (37 classes) | ConvNeXt · FastAPI · Next.js · Docker | CV product |
-| **[FoodAI](https://github.com/SaydahbarovAzamjon-cloud/food-type-ai)** | Organic vs processed food classifier | MobileNetV2 · PyTorch · FastAPI | [foodai.azamdev.uz](https://foodai.azamdev.uz) |
+| **[Carvia](https://github.com/SaydahbarovAzamjon-cloud/carvia)** | Vehicle make/model from one image (37 classes) | ConvNeXt · FastAPI · Next.js · Docker | [Live :8080](http://187.77.115.20:8080/) |
+| **[FoodAI](https://github.com/SaydahbarovAzamjon-cloud/food-type-ai)** | Organic vs processed food classifier | MobileNetV2 · PyTorch · FastAPI | [Live :8090](http://187.77.115.20:8090/) |
 | **[Lumora](https://github.com/SaydahbarovAzamjon-cloud/lumora-backend)** | AI personal stylist (backend + frontend) | NestJS · GraphQL · Redis · BullMQ · Next.js | In progress |
 
 ---
@@ -164,6 +164,16 @@ Keyin: <b>Actions → Generate Snake → Run workflow</b>
 
 ---
 
+
+## 📄 CV / Portfolio
+
+English and Korean CV/Portfolio files are ready locally (`Desktop/CV & Portfolio`).
+
+> Upload them here when available — I will link:
+> - `cv/Azamjon_Saydahbarov_CV_EN.pdf`
+> - `cv/Azamjon_Saydahbarov_CV_KO.pdf`
+> - Portfolio slides (EN / KO)
+
 ## 🤝 Looking For
 
 Open to:
@@ -186,6 +196,9 @@ Open to:
 <p align="center">
   <a href="https://fixoranext.com"><img src="https://img.shields.io/badge/Live-fixoranext.com-730C1E?style=for-the-badge" alt="fixora"/></a>
   <a href="https://gadjetstore.uz"><img src="https://img.shields.io/badge/Live-gadjetstore.uz-3C4B63?style=for-the-badge" alt="gadjet"/></a>
+  <a href="http://187.77.115.20:8080/"><img src="https://img.shields.io/badge/Live-Carvia%20%3A8080-730C1E?style=for-the-badge" alt="carvia"/></a>
+  <a href="http://187.77.115.20:8090/"><img src="https://img.shields.io/badge/Live-FoodAI%20%3A8090-3C4B63?style=for-the-badge" alt="foodai"/></a>
+
   <a href="https://github.com/SaydahbarovAzamjon-cloud"><img src="https://img.shields.io/badge/GitHub-SaydahbarovAzamjon--cloud-181717?style=for-the-badge&logo=github" alt="gh"/></a>
 </p>
 
