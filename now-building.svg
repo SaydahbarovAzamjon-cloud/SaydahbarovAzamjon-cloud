@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="220" viewBox="0 0 260 220">
+  <rect width="260" height="220" rx="16" fill="#FFFFFF" stroke="#E5EAF2"/>
+  <text x="18" y="28" fill="#730C1E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">Ï NOW BUILDING</text>
+  <!-- spinning disc -->
+  <g transform="translate(130,100)">
+    <circle r="52" fill="#F7F9FC" stroke="#E5EAF2" stroke-width="2"/>
+    <circle r="48" fill="#EEF2F7"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+      <circle r="46" fill="none" stroke="#730C1E" stroke-width="1.5" stroke-dasharray="8 6" opacity="0.5"/>
+      <circle r="28" fill="#FFFFFF" stroke="#C9D4E3"/>
+      <circle r="8" fill="#730C1E"/>
+      <text y="4" text-anchor="middle" fill="#3C4B63" font-family="ui-monospace, monospace" font-size="8">AI</text>
+    </g>
+  </g>
+  <!-- equalizer bars -->
+  <g transform="translate(70,175)">
+    <rect x="0" y="0" width="6" height="20" rx="2" fill="#730C1E">
+      <animate attributeName="height" values="8;22;10;20;8" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="12;-2;10;0;12" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="12" y="0" width="6" height="20" rx="2" fill="#9A1A32">
+      <animate attributeName="height" values="16;6;22;10;16" dur="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="4;14;-2;10;4" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="24" y="0" width="6" height="20" rx="2" fill="#730C1E">
+      <animate attributeName="height" values="10;20;8;22;10" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="10;0;12;-2;10" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="36" y="0" width="6" height="20" rx="2" fill="#3C4B63">
+      <animate attributeName="height" values="20;8;16;6;20" dur="0.7s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="0;12;4;14;0" dur="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="48" y="0" width="6" height="20" rx="2" fill="#730C1E">
+      <animate attributeName="height" values="6;18;12;22;6" dur="0.85s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="14;2;8;-2;14" dur="0.85s" repeatCount="indefinite"/>
+    </rect>
+    <text x="70" y="14" fill="#3C4B63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">fullstack · ai · ship</text>
+  </g>
+</svg>
